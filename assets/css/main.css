@@ -49,6 +49,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.copyright {
+		list-style: none;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -4185,6 +4189,7 @@
 			margin: 0 0 2em 0;
 			padding: 0;
 			text-transform: uppercase;
+
 		}
 
 			#footer .copyright li {
